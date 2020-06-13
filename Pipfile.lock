@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "766a9ec5f9156fbdae156df3e2ee2241c72d2be14b0f64415f6fa6c2f9b98a6a"
+            "sha256": "2424a368796325f4c2b1117f769180c28cd3d0d428d3ee888626e50b7bd3c969"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -53,6 +53,20 @@
             ],
             "markers": "sys_platform == 'win32'",
             "version": "==0.4.3"
+        },
+        "configparser": {
+            "hashes": [
+                "sha256:2ca44140ee259b5e3d8aaf47c79c36a7ab0d5e94d70bd4105c03ede7a20ea5a1",
+                "sha256:cffc044844040c7ce04e9acd1838b5f2e5fa3170182f6fda4d2ea8b0099dbadd"
+            ],
+            "version": "==5.0.0"
+        },
+        "crayons": {
+            "hashes": [
+                "sha256:4066ec91fecd6b86755d3f083943815e5958688aecdfae54b24443f190ba6950",
+                "sha256:dcb85b87aa03bb65bd3a073d012796b024cabeb086033e616759e2abb769440b"
+            ],
+            "version": "==0.3.1"
         },
         "idna": {
             "hashes": [
@@ -117,6 +131,14 @@
             "index": "pypi",
             "version": "==2.23.0"
         },
+        "selenium": {
+            "hashes": [
+                "sha256:2d7131d7bc5a5b99a2d9b04aaf2612c411b03b8ca1b1ee8d3de5845a9be2cb3c",
+                "sha256:deaf32b60ad91a4611b98d8002757f29e6f2c2d5fcaf202e1c9ad06d6772300d"
+            ],
+            "index": "pypi",
+            "version": "==3.141.0"
+        },
         "six": {
             "hashes": [
                 "sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259",
@@ -144,6 +166,14 @@
                 "sha256:88206b0eb87e6d677d424843ac5209e3fb9d0190d0ee169599165ec25e9d9115"
             ],
             "version": "==1.25.9"
+        },
+        "webdriver-manager": {
+            "hashes": [
+                "sha256:012166903ffd612dad83687069b1e78cb12a2f876dbc8cc4e7556a42c14e344b",
+                "sha256:8df74fc1fd153feccb4b563e721725c3a2457cb6dd84865d16d9b2d731a5cdfc"
+            ],
+            "index": "pypi",
+            "version": "==3.1.0"
         },
         "wrapt": {
             "hashes": [
